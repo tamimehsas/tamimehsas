@@ -4,7 +4,7 @@ Hi 👋 My name is Tamim Ehsas
 Full Stack Software Developer
 -----------------------------
 
-Full Stack Software Developer | Web 3.0 & Blockchain Enthusiast | Content Creator | Freelancer
+5+ years of experience in software development | Web 3.0 & Blockchain Enthusiast | Content Creator | Freelancer
 
 * 🌍  I'm based in Afghanistan
 * ✉️  You can contact me at [tamimehsas99@gmail.com](mailto:tamimehsas99@gmail.com)

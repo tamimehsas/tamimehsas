@@ -10,5 +10,5 @@ Full Stack Software Developer
 * ✉️  You can contact me at [tamimehsas99@gmail.com](mailto:tamimehsas99@gmail.com)
 * 🚀  I'm currently working on [HEMIS Project for Ministry of higher education of Afghanistan](http://hemis.edu.af/)
 * 🧠  I'm learning Blockchain and dApp Development
-* 🤝  I'm open to collaborating on Blockchain related Projects | Defi Projects and NFT Projects
+* 🤝  I'm open to collaborating on Blockchain,Defi and NFT related Projects 
 

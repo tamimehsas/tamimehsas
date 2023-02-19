@@ -4,7 +4,7 @@ Hi 👋 My name is Tamim Ehsas
 Blockchain Developer
 -----------------------------
 
-4+ years of experience in software development | Defi & Blockchain Development
+5+ years of experience in software development | Defi & Blockchain Development
 
 * 🌍  I'm based in Afghanistan
 * ✉️  You can contact me at [tamimehsas99@gmail.com](mailto:tamimehsas99@gmail.com)

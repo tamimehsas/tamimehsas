@@ -1,7 +1,7 @@
 Hi 👋 My name is Tamim Ehsas
 ============================
 
-Blockchain Developer
+FullStack Blockchain Developer
 -----------------------------
 
 5+ years of experience in software development | Defi & Blockchain Development
